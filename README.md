@@ -1,4 +1,4 @@
-(insert README file about me here)
+(insert README file here)
 
 
 <!---
